@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://cavernatech.github.io/agronotas"
 languageCode = "pt-br"
 title = "AgroNotas - Automação de NF-E"
 theme = "syna"
