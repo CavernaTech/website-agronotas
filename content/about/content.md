@@ -1,21 +1,21 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2017-10-05"
+date = "2022-06-02"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "Sobre a Agronotas"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
+Plataforma de emissão de NFE-E para agricultures, pequenos ou grandes!
 
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
+Inspirado pela necessidade da família, de um dos fundadores, em emitir NF-E na fazenda.
 
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
+Fundada para tornar acessível e prático o processo de gerir o negócio dos agricultores.
 
-**Provided with <3 by Okkur Labs**
+**Críado com o <3 pela CavernaTech**
 
 ---
 

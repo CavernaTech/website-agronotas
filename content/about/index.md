@@ -1,4 +1,4 @@
 +++
-title = "About Syna"
-date = "2017-10-05"
+title = "Sobre AgroNotas"
+date = "2022-06-02"
 +++

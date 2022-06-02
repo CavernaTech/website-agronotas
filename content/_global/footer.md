@@ -1,21 +1,20 @@
 +++
 fragment = "footer"
 #disabled = true
-date = "2016-09-07"
+date = "2022-06-02"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Redes Sociais"
 
 [asset]
-  title = "Logo Title"
+  title = "AgroNotas"
   image = "logo.svg"
-  text = "Logo Subtext"
+  text = "Emissão de nota fiscal eletrônica"
   url = "#"
 +++
 
-#### Description Title
+#### AgroNotas
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+Plataforma de emissão de Nota Fiscal Eletrônica, NF-E, para Agricultores.
+Feito pela CavernaTech

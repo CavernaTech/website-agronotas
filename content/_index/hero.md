@@ -1,13 +1,13 @@
 +++
 fragment = "hero"
 #disabled = true
-date = "2016-09-07"
+date = "2022-06-02"
 weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "AgroNotas"
+subtitle = "Emissão de Nota Fical Eletrônica para Agricultores"
 
 [header]
   image = "header.jpg"
@@ -18,17 +18,17 @@ subtitle = "Showcase your next project"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
+  text = "Como Funciona"
   url = "#"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
+  text = "Demonstração Online"
+  url = "#"
   color = "primary"
 
 [[buttons]]
-  text = "Button"
+  text = "Entrar Contato"
   url = "#"
   color = "success"
 +++
