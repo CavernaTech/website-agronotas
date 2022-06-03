@@ -71,7 +71,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/about"
+  url = "about"
   name = "Sobre Nós"
   weight = 20
 
