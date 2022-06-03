@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = "AgroNotas"
-subtitle = "Emissão de Nota Fical Eletrônica para Agricultores"
+subtitle = "Emissão de Nota Fiscal Eletrônica para Agricultores"
 
 [header]
   image = "header.jpg"
