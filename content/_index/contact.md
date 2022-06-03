@@ -13,6 +13,7 @@ subtitle  = "sua dúvida é muito bem vinda"
 post_url = "https://example.com/mailout" #default: formspree.io
 email = "mail@example.com"
 button = "Send Button" # defaults to theme default
+button_text = "Enviar Mensagem"
 #netlify = false
 
 # Optional google captcha
